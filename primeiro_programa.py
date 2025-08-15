@@ -1,0 +1,5 @@
+nome=input('infome seu nome: ')
+idade=input('infome sua idade: ')
+print('nome {nome} idade {idade}')
+print('nome {nome} idade {idade}', end='...\n')
+print(nome,idade, sep=' - ')
